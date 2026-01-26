@@ -28,10 +28,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react" height="160"/>
-</p>
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
+    style="width: 40%; height: 170px;"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
+    style="width: 40%; height: 180px;"
+  />
+
+</div>
+
 
 ---
 
