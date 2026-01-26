@@ -1,3 +1,76 @@
+<h1 align="center">Hi 👋, I'm Denys</h1>
+<h3 align="center">Junior Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Junior Full-Stack Developer with a strong focus on **Frontend**
+- ⚛️ Working with **React, TypeScript, JavaScript**
+- 🌐 Building responsive web applications and integrating **REST APIs**
+- 📈 Constantly improving skills and learning modern web technologies
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,git,github,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🎬 **Movie Search App** — React, Axios, REST API  
+- ☕ **CoffeeJoy Landing Page** — responsive UI, modern layout  
+- 🐾 **Hut of Paws** — team project, feedback section, Swiper slider  
+
+👉 Check pinned repositories below ⬇️
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" height="160"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
+
+
+
+
+
+
+
+
+🧰 Tech Stack  
+
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -17,3 +90,12 @@
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
