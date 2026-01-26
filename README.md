@@ -28,31 +28,42 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
-    style="width: 40%; height: 170px;"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
-    style="width: 40%; height: 180px;"
-  />
-
-</div>
-
+<table width="100%"; align="center">
+  <tr>
+    <td width="53%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
+        width="100%"
+        height="190"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
+        width="100%"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/denys-hedenko" style="margin-right:30px;">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      height="100"
+    />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:denyshedenko@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"
+      height="100"
+    />
   </a>
 </p>
 
