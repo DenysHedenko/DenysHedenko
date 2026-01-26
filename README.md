@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💻 Junior Full-Stack Developer with a strong focus on **Frontend**
+- 💻 Junior Full-Stack Developer
 - ⚛️ Working with **React, TypeScript, JavaScript**
 - 🌐 Building responsive web applications and integrating **REST APIs**
 - 📈 Constantly improving skills and learning modern web technologies
@@ -21,18 +21,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,figma,bash" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-- 🎬 **Movie Search App** — React, Axios, REST API  
-- ☕ **CoffeeJoy Landing Page** — responsive UI, modern layout  
-- 🐾 **Hut of Paws** — team project, feedback section, Swiper slider  
-
-👉 Check pinned repositories below ⬇️
 
 ---
 
