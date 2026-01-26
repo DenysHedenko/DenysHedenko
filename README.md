@@ -63,19 +63,19 @@
 
 ---
 
+🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+
+---
+
 <p align="center">
   💙 Thanks for visiting my profile!
 </p>
-
-
-
-
-
-
-
-
- 
-
 
 🗣️ Languages
 
