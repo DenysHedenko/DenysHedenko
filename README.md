@@ -46,7 +46,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/denys-hedenko" style="margin-right:30px;">
+  <a href="https://www.linkedin.com/in/denys-hedenko" style="margin-right:100px;">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
       height="100"
@@ -65,22 +65,31 @@
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/English-A2-blue?style=flat-square"
+    width="100"
+    style="margin-right:25px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square"
+    width="100"
+    style="margin-right:25px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Polish-B1--B2-lightgrey?style=flat-square"
+    width="100"
+    style="margin-right:25px;"
+  />
+  <img
+    src="https://img.shields.io/badge/Russian-C1-red?style=flat-square"
+    width="100"
+  />
+</p>
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 
 ---
 
 <p align="center">
   💙 Thanks for visiting my profile!
 </p>
-
-🗣️ Languages
-
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
