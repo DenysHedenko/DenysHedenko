@@ -30,18 +30,16 @@ development workflows. Strongly motivated by professional growth, I learn quickl
 
 <table width="100%"; align="center">
   <tr>
-    <td width="53%">
+    <td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
         width="100%"
-        height="190"
       />
     </td>
     <td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
         width="100%"
-        height="170"
       />
     </td>
   </tr>
