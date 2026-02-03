@@ -28,33 +28,22 @@ development workflows. Strongly motivated by professional growth, I learn quickl
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
-    width="48%"
-  />
-</p>
-<!-- <table width="100%"; align="center">
+<table width="100%"; align="center">
   <tr>
     <td width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
+      <img       
+        src="https://github-readme-stats-beta-one-54.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact"
         width="100%"
       />
     </td>
     <td width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
+      <img 
+        src="https://github-readme-stats-beta-one-54.vercel.app/api?username=DenysHedenko"
         width="100%"
       />
     </td>
   </tr>
-</table> -->
+</table> 
 
 ---
 
