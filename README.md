@@ -32,13 +32,13 @@ development workflows. Strongly motivated by professional growth, I learn quickl
   <tr>
     <td width="50%">
       <img       
-        src="https://github-readme-stats-beta-one-54.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact"
+        src="https://github-readme-stats-beta-one-54.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=tokyonight"
         width="100%"
       />
     </td>
     <td width="50%">
       <img 
-        src="https://github-readme-stats-beta-one-54.vercel.app/api?username=DenysHedenko"
+        src="https://github-readme-stats-beta-one-54.vercel.app/api?username=DenysHedenko&theme=tokyonight"
         width="100%"
       />
     </td>
