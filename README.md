@@ -28,7 +28,18 @@ development workflows. Strongly motivated by professional growth, I learn quickl
 
 ## 📊 GitHub Stats
 
-<table width="100%"; align="center">
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DenysHedenko&show_icons=true&theme=react"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHedenko&layout=compact&theme=react"
+    width="48%"
+  />
+</p>
+<!-- <table width="100%"; align="center">
   <tr>
     <td width="50%">
       <img
@@ -43,7 +54,7 @@ development workflows. Strongly motivated by professional growth, I learn quickl
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
