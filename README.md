@@ -4,9 +4,8 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,figma,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,git,github,figma,bash" />
 </p>
-
 ---
 
 ## 🚀 About Me
